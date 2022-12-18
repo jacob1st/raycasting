@@ -16,3 +16,5 @@ REPRESENTATION:
 
 
 Known issues: There is a slight curvature to objects, noticable when you look at them from an angle. They appear this way due to some math I implemented to fix shapes appearing like fishbowls.
+
+Use WASD to move. Press Z to lock/unlock the mouse. While locked, move the mouse to rotate the player.
