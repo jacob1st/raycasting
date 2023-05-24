@@ -1,5 +1,5 @@
 # raycasting
-Exploing raycasting to create 3d graphics in pygame.
+Exploring raycasting to create 3d graphics in pygame.
 
 Although the code is still being cleaned up, so far the program works like this:
 ![raycast](./raycasting.gif)
